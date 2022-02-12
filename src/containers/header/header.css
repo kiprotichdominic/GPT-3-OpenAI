@@ -11,14 +11,12 @@
     margin-right: 5rem;
 }
 .gpt3__header-content h1{
-    font-family: var(--font-family);
     font-weight: 800;
     font-size: 62px;
     line-height: 75px;
     letter-spacing: -0.04em;
 }
 .gpt3__header-content p{
-    font-family: var(--font-family);
     font-size: 20px;
     line-height: 27px;
     color: var(--color-text);
@@ -34,7 +32,6 @@
     flex: 2;
     width: 100%;
     min-height: 50px;
-    font-family: var(--font-family);
     background: #052d56;
     color: var(--font-footer);
     border: 2px solid var(--font-footer);
@@ -50,7 +47,6 @@
     width:100%;
     min-height: 50px;
     background: #ff4820;
-    font-family: var(--font-family);
     font-weight: bold;
     font-size: 19px;
     line-height: 27px;
@@ -76,7 +72,6 @@
 }
 .gpt3__header-content__people p{
     margin: 0 0 0 1rem;
-    font-family: var(--font-family);
     font-weight: 500;
     line-height: 38px;
     font-size: 12px;
